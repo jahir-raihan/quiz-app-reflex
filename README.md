@@ -1,6 +1,5 @@
 # Customer Data App
 
-
 This app is used to showcase and edit tabular data live in an app. It links up with a persistent database, such as [Neon](https://neon.tech). 
 
 ## Usage 
